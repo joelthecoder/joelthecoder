@@ -2,7 +2,7 @@ Hello,
 
 My name is Joel 👋
 
-I'm a high-energy Team Lead that loves pushing my team to its full potential.
+I'm a high-energy Dev Manager that loves pushing my team to its full potential.
 
 My skills include
 
