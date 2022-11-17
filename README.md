@@ -6,7 +6,7 @@ I'm a high-energy Dev Manager that loves pushing my team to its full potential.
 
 My skills include
 
-- React, JavaScript & TypeScript
+- React, JavaScript, TypeScript, & Ruby
 - Technical planning
 - Coaching & mentoring developers
 - Change management
