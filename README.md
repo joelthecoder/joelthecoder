@@ -1,24 +1,20 @@
-Hello,
+# Joel Langlois
 
-My name is Joel 👋
+Senior Software Engineer building cross-platform fintech products at scale. 15+ years shipping across fintech, edtech, SaaS, and security.
 
-I'm a high-energy Dev Manager with a passion for elevating teams to reach their full potential. I’m deeply committed to best practices, creating maintainable, thoroughly tested code. My approach blends technical expertise with a strong focus on personal growth and mentorship.
+I've been an IC, a Tech Lead, and an Engineering Manager — I moved back to hands-on building because that's where I do my best work.
 
-Throughout my [career](https://www.linkedin.com/in/joellanglois), I’ve honed skills in:
+Currently deep in AI-accelerated development workflows. Claude Code, MCP servers, Conductor, Cursor, and Codex are core parts of how I ship — not side experiments.
 
-- React, JavaScript, TypeScript, Ruby, and MySQL & PostgreSQL
-- Container orchestration and server management
-- Technical planning
-- Developer mentoring
-- Change management
-- Project management and documentation
-- Technical and security assessments
+## 🛠 What I work with
 
-Recently, I decided to take a break from my career to fully immerse myself in the beauty of life. I traveled to breathtaking destinations, enjoyed incredible food, danced to the music I love, and built meaningful relationships. This time away allowed me to ground myself, expand my perspective, and focus on personal growth.
+**Day-to-day:** Ruby, TypeScript, React, React Native, GraphQL, Rails
 
-✨✨ Now, feeling rejuvenated and more energized than ever, I’m ready to return and make an even greater impact. I’m excited about the future and eager to connect with others who share my passion for building strong teams and delivering high-quality products.
+**🤖 AI tooling:** Claude Code, MCP Servers, Conductor, Cursor, Codex, Gemini
 
-Let’s connect and chat!
+**☁️ Infrastructure:** AWS, Serverless, Docker, Datadog, Sentry
 
-- [E-mail](mailto:joelthecoder@gmail.com)
+## 🔗 Links
+
 - [LinkedIn](https://www.linkedin.com/in/joellanglois)
+- [Email](mailto:joelthecoder@gmail.com)
