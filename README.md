@@ -21,7 +21,7 @@ I build reusable workflows around what works: preserving context, checking assum
 
 ## 🔨 Things I'm building
 
-**Chattermatic** — I'm building a native macOS app in Swift to make conversations easier to revisit and use. It records and transcribes locally, lets you search and replay what was said, and exports transcripts for notes and follow-up work. Your recordings stay on your machine, wrapped in a cassette-inspired interface with some personality. (Currently private; will be shared publicly soon.)
+**[Orca Bridge](https://github.com/joelthecoder/orca-bridge)** — I'm building a Rust CLI and reusable library for finding and returning to Orca agent sessions. It lets me search conversations from a terminal or launcher, jump back into the right session, send prompts, and turn workspace activity into Unix pipelines.
 
 **My engineering automation system** — I built the automation around my `~/.claude` setup to spend less time reconstructing context and keeping track of loose ends. A Go runner coordinates scheduled jobs, reusable agent skills, and automated checks. Workpad keeps the supporting notes, decisions, and investigation evidence connected. Together, they prepare daily context, surface follow-ups, and flag stale instructions, with spending limits and permission boundaries built in. I use it every day and improve it as I discover what helps.
 
