@@ -21,11 +21,11 @@ I build reusable workflows around what works: preserving context, checking assum
 
 ## 🔨 Things I'm building
 
-**[Orca Bridge](https://github.com/joelthecoder/orca-bridge)** — A Rust CLI and reusable library for finding and returning to Orca agent sessions. It lets me search conversations from a terminal or launcher, jump back into the right session, send prompts, and turn workspace activity into Unix pipelines.
+**[Orca Bridge](https://github.com/joelthecoder/orca-bridge)** — A Rust CLI and reusable library for finding and returning to Orca agent sessions. Search conversations from a terminal or launcher, jump back into a session, send prompts, and turn workspace activity into Unix pipelines.
 
-**[Orca Watch](https://github.com/joelthecoder/orca-watch)** — A Swift terminal dashboard and macOS desktop widget for monitoring Orca agents. Powered by Orca Bridge, it keeps sessions organized by project, surfaces recent activity, and lets me jump back into the right terminal.
+**[Orca Watch](https://github.com/joelthecoder/orca-watch)** — A Swift terminal dashboard and macOS desktop widget for monitoring Orca agents. Powered by Orca Bridge, it organizes sessions by project, surfaces recent activity, and focuses the selected session's terminal.
 
-**My engineering automation system** — I built the automation around my `~/.claude` setup to spend less time reconstructing context and keeping track of loose ends. A Go runner coordinates scheduled jobs, reusable agent skills, and automated checks. Workpad keeps the supporting notes, decisions, and investigation evidence connected. Together, they prepare daily context, surface follow-ups, and flag stale instructions, with spending limits and permission boundaries built in. I use it every day and improve it as I discover what helps.
+**Engineering automation system** — Automation around a `~/.claude` setup for reconstructing context and tracking loose ends. A Go runner coordinates scheduled jobs, reusable agent skills, and automated checks. Workpad keeps the supporting notes, decisions, and investigation evidence connected. Together, they prepare daily context, surface follow-ups, and flag stale instructions, with spending limits and permission boundaries built in.
 
 ## 💻 Usually working with
 
