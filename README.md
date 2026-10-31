@@ -25,7 +25,9 @@ I build reusable workflows around what works: preserving context, checking assum
 
 **[Orca Watch](https://github.com/joelthecoder/orca-watch)** — A Swift terminal dashboard and macOS desktop widget for monitoring Orca agents. Powered by Orca Bridge, it organizes sessions by project, surfaces recent activity, and focuses the selected session's terminal.
 
-**Engineering automation system** — Automation around a `~/.claude` setup for reconstructing context and tracking loose ends. A Go runner coordinates scheduled jobs, reusable agent skills, and automated checks. Workpad keeps the supporting notes, decisions, and investigation evidence connected. Together, they prepare daily context, surface follow-ups, and flag stale instructions, with spending limits and permission boundaries built in.
+**Engineering automation system (`~/.claude`)** — A persistent engineering operating system for Claude Code and Codex. Workpad carries decisions, investigation evidence, and unfinished work across sessions. Reusable workflows take tasks from diagnosis through implementation, review, and verification, with explicit evidence requirements for completion. Review feedback and recurring failures become reusable checks, so lessons from one task improve the next.
+
+A Go runtime prepares daily context, surfaces follow-ups, checks for stale instructions, and repairs bounded local automation failures. Spending limits, tool permissions, and quiet notifications support background work while keeping consequential decisions visible. The result is an environment where context accumulates, work survives interruptions, and the workflow improves alongside the code.
 
 ## 💻 Usually working with
 
